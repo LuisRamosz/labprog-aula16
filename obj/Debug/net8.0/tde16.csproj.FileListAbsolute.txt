@@ -1,0 +1,14 @@
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\tde16\bin\Debug\net8.0\tde16.exe
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\tde16\bin\Debug\net8.0\tde16.deps.json
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\tde16\bin\Debug\net8.0\tde16.runtimeconfig.json
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\tde16\bin\Debug\net8.0\tde16.dll
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\tde16\bin\Debug\net8.0\tde16.pdb
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\tde16\obj\Debug\net8.0\tde16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\tde16\obj\Debug\net8.0\tde16.AssemblyInfoInputs.cache
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\tde16\obj\Debug\net8.0\tde16.AssemblyInfo.cs
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\tde16\obj\Debug\net8.0\tde16.csproj.CoreCompileInputs.cache
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\tde16\obj\Debug\net8.0\tde16.dll
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\tde16\obj\Debug\net8.0\refint\tde16.dll
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\tde16\obj\Debug\net8.0\tde16.pdb
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\tde16\obj\Debug\net8.0\tde16.genruntimeconfig.cache
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\tde16\obj\Debug\net8.0\ref\tde16.dll
